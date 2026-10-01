@@ -8,9 +8,9 @@ Most "family apps" are really just WhatsApp groups, which are fine for chatting 
 
 FamilyHub is a small, self-hosted-for-free app built specifically for one family (mine), solving six recurring problems:
 
-Alerts — instead of calling everyone, send a push notification (loud, DND-bypassing) to selected family members. Doubles as an emergency broadcast.
-Expense tracking — anyone logs a spend, everyone sees it, categorized and totaled.
-Food requests — post what you want to eat, visible to the whole family.
-Service/maintenance reminders — schedule a notification for a future date (AC service, gas booking, etc.).
-Photo sharing — a shared album, without competing with WhatsApp for everyday chatting.
-Medical records vault — a single place for prescriptions, reports, and medicine schedules.
+1- Alerts — instead of calling everyone, send a push notification (loud, DND-bypassing) to selected family members. Doubles as an emergency broadcast.
+2- Expense tracking — anyone logs a spend, everyone sees it, categorized and totaled.
+3- Food requests — post what you want to eat, visible to the whole family.
+4- Service/maintenance reminders — schedule a notification for a future date (AC service, gas booking, etc.).
+5- Photo sharing — a shared album, without competing with WhatsApp for everyday chatting.
+6- Medical records vault — a single place for prescriptions, reports, and medicine schedules.
